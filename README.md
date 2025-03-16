@@ -1,8 +1,8 @@
 # parking-lot-management
-The Online Book Review Platform is a web application that allows users to explore, review, and rate books across various genres. Whether you're an avid reader looking for your next great read or an author seeking feedback, this platform provides a space for literary discussions and recommendations.  
-Key Features:  
-📚 Book Reviews: Users can read and write reviews for a wide range of books.  
-⭐ Ratings System: Books can be rated based on user opinions.  
-🔍 Search & Filter: Find books by title, author, genre, or rating.  
-👥 User Profiles: Track your reviews and favorite books.  
-📢 Community Engagement: Interact with other book lovers through comments and discussions.  
+The Parking Management System is a web-based or desktop application designed to streamline the management of parking lots. The system allows administrators to efficiently allocate parking spaces, monitor vehicle entries and exits, and generate reports for better resource management.  
+Features  
+🔐 User Authentication: Secure login for administrators, staff, and registered users.  
+🅿️ Parking Slot Management: Track available and occupied parking slots in real time.  
+🚘 Vehicle Registration: Register vehicle details for frequent users or visitors.  
+💰 Payment Processing: Calculate parking fees based on duration and process payments.  
+📋 Admin Dashboard: Provides an overview of the parking lot status and user activities.  
